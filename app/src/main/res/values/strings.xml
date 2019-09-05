@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yara</string>
+    <string name="IMDB_ID_KEY">imdbIdKey</string>
+</resources>
